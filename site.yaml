@@ -1,0 +1,10 @@
+title_template: "%s • Artful Flax"
+title: Embroidery bows and hairpins
+description: We create luxurious and elegant bows that add sophistication and creativity to any look. Crafted from high-quality materials, our bows offer durability and timeless beauty
+brand: The Artful Flax
+globals: [global]
+favicon: /img/favicon.ico
+content_collection: bows
+pretty_urls: true
+router: true
+css_2023: true
